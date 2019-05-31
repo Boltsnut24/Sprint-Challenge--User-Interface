@@ -34,13 +34,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML's only purpose is to help improve readability of code. Using more descriptive terms than <div> makes it easier to go back through when you are debugging. It also helps screen reader scan through the webpage more efficiently.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Block items always start on a new line and inline does not.
+Block items also take up the entire width they are given, inline items only use what is needed for the content.
 
 3. What are the 4 areas of the box model?
 
+Margin, Border, Padding, Content
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Cross-axis
+
 5. Explain why git is valuable to a team of developers.
+
+It allows you to track changes made to a code base and provides a platform for multiple developers to be working on the same code base without them make contradictory changes. It also servers as a built in backup storage in case something happens to the code base locally.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
